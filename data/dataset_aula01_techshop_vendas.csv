@@ -1,0 +1,801 @@
+data_pedido,categoria,preco_unitario,quantidade,regiao,canal_marketing,avaliacao
+2024-01-01,Acessórios,36.2,1,Sudeste,Instagram,3.3
+2024-01-01,Acessórios,122.61,5,Sudeste,Orgânico,4.4
+2024-01-02,Acessórios,151.19,4,Sul,Google Ads,4.6
+2024-01-03,TVs,3399.16,2,Sudeste,Google Ads,4.1
+2024-01-04,Smartphones,3180.94,2,Nordeste,Instagram,3.9
+2024-01-04,TVs,2844.76,2,Sul,Orgânico,3.7
+2024-01-05,Áudio,849.65,4,Centro-Oeste,Google Ads,3.9
+2024-01-06,Áudio,276.95,4,Nordeste,Google Ads,3.9
+2024-01-08,Smartphones,1914.49,1,Nordeste,Orgânico,4.4
+2024-01-08,Áudio,440.52,5,Sudeste,Orgânico,5.0
+2024-01-08,Acessórios,249.35,5,Sul,Instagram,4.3
+2024-01-09,Áudio,677.96,1,Sudeste,Instagram,5.0
+2024-01-09,Acessórios,95.41,4,Sudeste,Orgânico,4.2
+2024-01-10,TVs,3191.5,2,Sudeste,Google Ads,4.2
+2024-01-11,Áudio,1008.84,3,Sul,Orgânico,4.0
+2024-01-13,Notebooks,5834.39,2,Sudeste,Orgânico,4.3
+2024-01-13,Smartphones,4782.76,2,Sudeste,Google Ads,3.9
+2024-01-13,Smartphones,2668.13,2,Sul,E-mail,4.1
+2024-01-13,Smartphones,2704.69,2,Norte,Google Ads,4.5
+2024-01-13,Acessórios,115.05,3,Sul,Instagram,4.0
+2024-01-13,Smartphones,1699.13,1,Sul,Orgânico,3.8
+2024-01-14,Acessórios,56.6,4,Nordeste,Instagram,3.6
+2024-01-15,Áudio,1357.65,1,Sul,Google Ads,4.3
+2024-01-15,Acessórios,241.21,4,Sudeste,Orgânico,3.4
+2024-01-15,Acessórios,135.96,5,Sudeste,Orgânico,5.0
+2024-01-16,Acessórios,66.9,1,Centro-Oeste,Orgânico,2.9
+2024-01-17,Acessórios,205.83,5,Sul,Google Ads,5.0
+2024-01-18,Áudio,1447.78,1,Sul,Google Ads,5.0
+2024-01-18,Smartphones,2256.03,1,Nordeste,E-mail,4.6
+2024-01-19,Acessórios,64.6,1,Nordeste,Orgânico,3.1
+2024-01-20,Acessórios,193.21,4,Centro-Oeste,Orgânico,2.9
+2024-01-21,Áudio,1213.41,1,Norte,Instagram,4.4
+2024-01-21,Notebooks,3493.16,1,Sudeste,Google Ads,4.0
+2024-01-22,Smartphones,3355.79,2,Sudeste,E-mail,4.6
+2024-01-22,Notebooks,2785.84,2,Sudeste,Instagram,4.6
+2024-01-22,Acessórios,115.67,1,Sudeste,Google Ads,4.5
+2024-01-22,Áudio,1193.31,4,Sul,Instagram,4.3
+2024-01-23,Smartphones,3545.19,1,Norte,E-mail,4.4
+2024-01-23,Acessórios,224.58,4,Centro-Oeste,Orgânico,3.4
+2024-01-24,Acessórios,163.42,5,Sudeste,Google Ads,3.7
+2024-01-24,Acessórios,202.25,4,Sudeste,Orgânico,3.8
+2024-01-24,Áudio,942.53,2,Centro-Oeste,Google Ads,4.2
+2024-01-25,Smartphones,2632.27,2,Sudeste,Orgânico,4.4
+2024-01-26,Áudio,465.51,5,Sul,Google Ads,5.0
+2024-01-26,Áudio,903.06,2,Sul,Google Ads,3.8
+2024-01-26,Smartphones,3079.03,1,Nordeste,Google Ads,4.0
+2024-01-27,Acessórios,38.86,2,Nordeste,Instagram,3.8
+2024-01-27,Notebooks,4493.17,1,Nordeste,Instagram,4.8
+2024-01-27,Áudio,1436.08,1,Sul,Orgânico,4.5
+2024-01-27,Acessórios,212.06,4,Norte,Instagram,5.0
+2024-01-28,Smartphones,3436.51,1,Sudeste,Google Ads,2.5
+2024-01-28,Smartphones,2188.89,1,Norte,Orgânico,5.0
+2024-02-01,TVs,1636.74,2,Sudeste,E-mail,3.7
+2024-02-02,Notebooks,5982.54,2,Sudeste,Orgânico,4.0
+2024-02-02,Notebooks,5639.97,1,Sudeste,Orgânico,3.9
+2024-02-03,Acessórios,168.48,2,Sudeste,Instagram,4.1
+2024-02-03,Acessórios,77.73,3,Centro-Oeste,Orgânico,5.0
+2024-02-03,TVs,5401.64,2,Nordeste,Google Ads,4.0
+2024-02-03,Áudio,354.62,4,Sudeste,Orgânico,4.3
+2024-02-03,TVs,4183.21,1,Sudeste,Google Ads,4.7
+2024-02-04,Acessórios,135.79,1,Nordeste,Orgânico,4.0
+2024-02-04,Smartphones,4830.99,1,Sudeste,Instagram,5.0
+2024-02-06,Notebooks,5108.18,2,Nordeste,Google Ads,4.8
+2024-02-06,Smartphones,2641.36,1,Sudeste,Google Ads,4.6
+2024-02-06,Notebooks,5706.73,2,Nordeste,Google Ads,4.7
+2024-02-09,Notebooks,2528.3,2,Sul,Google Ads,4.4
+2024-02-09,Acessórios,268.85,1,Nordeste,Instagram,3.7
+2024-02-09,Smartphones,2842.51,2,Sul,Orgânico,4.9
+2024-02-09,TVs,5162.87,1,Nordeste,Instagram,4.5
+2024-02-10,Acessórios,67.73,2,Nordeste,Google Ads,5.0
+2024-02-11,Acessórios,280.29,4,Centro-Oeste,Google Ads,3.4
+2024-02-13,Acessórios,46.04,4,Sul,Orgânico,3.3
+2024-02-14,Áudio,1187.17,1,Sul,Orgânico,4.9
+2024-02-14,Smartphones,4081.31,2,Sudeste,Orgânico,4.5
+2024-02-15,Acessórios,36.87,5,Sudeste,E-mail,4.7
+2024-02-15,Smartphones,1825.88,1,Sudeste,Orgânico,4.9
+2024-02-15,Acessórios,35.72,3,Sudeste,Google Ads,4.2
+2024-02-16,Notebooks,7798.67,1,Centro-Oeste,Instagram,4.3
+2024-02-16,Smartphones,4082.02,2,Centro-Oeste,Google Ads,4.3
+2024-02-17,Acessórios,297.64,4,Sul,Orgânico,3.9
+2024-02-17,TVs,1732.18,2,Centro-Oeste,Google Ads,4.2
+2024-02-18,Smartphones,1615.98,1,Centro-Oeste,Instagram,3.5
+2024-02-18,Notebooks,3057.81,1,Sul,Orgânico,3.9
+2024-02-19,Acessórios,194.6,2,Sudeste,Instagram,3.6
+2024-02-19,Áudio,1160.06,4,Centro-Oeste,E-mail,3.6
+2024-02-20,Áudio,1384.46,2,Sudeste,Orgânico,4.2
+2024-02-20,Áudio,1079.34,2,Nordeste,Instagram,4.6
+2024-02-21,Áudio,178.28,4,Nordeste,Google Ads,3.7
+2024-02-23,Áudio,1492.09,2,Sul,Google Ads,4.9
+2024-02-24,TVs,5629.89,2,Centro-Oeste,Google Ads,4.3
+2024-02-24,TVs,4477.35,1,Sul,E-mail,5.0
+2024-02-25,Áudio,307.09,2,Sudeste,Google Ads,5.0
+2024-02-25,Acessórios,250.02,3,Norte,E-mail,5.0
+2024-02-27,Acessórios,202.4,2,Sudeste,Instagram,5.0
+2024-02-27,Áudio,902.36,4,Nordeste,Google Ads,5.0
+2024-02-27,Notebooks,2639.62,2,Sudeste,Google Ads,4.3
+2024-02-28,Áudio,160.21,5,Sudeste,Orgânico,3.5
+2024-02-28,TVs,4924.63,2,Centro-Oeste,Instagram,3.2
+2024-03-01,Áudio,1336.81,3,Sudeste,Instagram,5.0
+2024-03-01,Smartphones,4311.09,2,Sudeste,Orgânico,3.6
+2024-03-01,Smartphones,1768.41,1,Sudeste,E-mail,3.4
+2024-03-01,Áudio,1357.55,5,Sul,Instagram,3.2
+2024-03-02,Smartphones,1705.95,2,Sudeste,Google Ads,5.0
+2024-03-03,TVs,5067.84,2,Sudeste,Google Ads,4.9
+2024-03-04,Smartphones,1354.87,2,Sudeste,Instagram,4.0
+2024-03-04,Acessórios,91.83,3,Nordeste,Google Ads,4.3
+2024-03-04,Acessórios,72.17,1,Nordeste,Google Ads,3.5
+2024-03-05,TVs,1894.39,1,Centro-Oeste,Instagram,4.7
+2024-03-05,Notebooks,7275.49,2,Centro-Oeste,Orgânico,4.8
+2024-03-06,Acessórios,75.87,3,Sudeste,Instagram,5.0
+2024-03-06,Acessórios,176.76,2,Sudeste,Orgânico,3.9
+2024-03-06,Áudio,695.59,4,Sudeste,Instagram,3.0
+2024-03-09,Áudio,1103.13,2,Sudeste,Instagram,4.2
+2024-03-09,Notebooks,6322.4,1,Nordeste,Google Ads,4.3
+2024-03-09,Áudio,700.78,1,Sudeste,Google Ads,4.2
+2024-03-10,Smartphones,3443.0,2,Nordeste,Instagram,5.0
+2024-03-10,Acessórios,186.43,4,Sul,Google Ads,3.4
+2024-03-14,TVs,4684.56,1,Sudeste,Google Ads,4.6
+2024-03-15,Acessórios,226.46,3,Nordeste,E-mail,3.5
+2024-03-15,Smartphones,2000.52,1,Sudeste,Orgânico,4.2
+2024-03-16,Notebooks,2686.34,1,Sul,E-mail,3.3
+2024-03-16,Notebooks,4952.46,2,Sudeste,E-mail,4.6
+2024-03-16,Notebooks,6045.01,2,Sudeste,Orgânico,4.1
+2024-03-17,Smartphones,2810.99,1,Sudeste,Orgânico,4.1
+2024-03-17,Smartphones,3002.1,1,Centro-Oeste,Orgânico,4.4
+2024-03-17,Acessórios,62.57,3,Sudeste,Orgânico,3.7
+2024-03-17,Áudio,292.39,4,Nordeste,Orgânico,3.7
+2024-03-17,Notebooks,6371.7,1,Sudeste,Orgânico,3.9
+2024-03-18,Notebooks,4988.42,1,Nordeste,Instagram,4.6
+2024-03-19,Notebooks,6492.89,1,Sudeste,Orgânico,5.0
+2024-03-19,Notebooks,4708.22,2,Sul,Instagram,4.7
+2024-03-20,Smartphones,2641.56,1,Sudeste,Orgânico,4.7
+2024-03-20,Acessórios,39.3,3,Sudeste,Google Ads,4.9
+2024-03-22,Áudio,1242.85,1,Sudeste,Instagram,3.7
+2024-03-22,Notebooks,5791.92,1,Nordeste,Instagram,4.6
+2024-03-22,Áudio,1080.78,2,Centro-Oeste,Google Ads,3.8
+2024-03-22,Áudio,222.71,3,Nordeste,E-mail,3.8
+2024-03-22,TVs,3241.85,1,Sudeste,Instagram,4.7
+2024-03-23,Smartphones,4804.62,1,Sudeste,Instagram,3.6
+2024-03-23,Acessórios,230.91,2,Centro-Oeste,Instagram,3.6
+2024-03-24,Áudio,691.6,1,Sudeste,Google Ads,4.4
+2024-03-25,Notebooks,7429.85,1,Sudeste,Orgânico,3.8
+2024-03-25,Smartphones,3576.16,2,Sudeste,Google Ads,4.0
+2024-03-26,Smartphones,3020.89,1,Nordeste,Google Ads,3.9
+2024-03-26,Áudio,1033.59,3,Sudeste,Orgânico,4.9
+2024-03-26,Acessórios,249.03,5,Norte,Google Ads,4.7
+2024-03-26,TVs,5641.34,2,Sudeste,Instagram,4.1
+2024-03-28,Acessórios,187.5,3,Sudeste,E-mail,5.0
+2024-04-01,Notebooks,5561.5,1,Sudeste,Orgânico,5.0
+2024-04-01,TVs,2495.44,2,Nordeste,Orgânico,3.9
+2024-04-02,Áudio,1283.71,5,Sudeste,Instagram,4.1
+2024-04-02,Acessórios,175.42,3,Norte,E-mail,4.1
+2024-04-02,Áudio,184.85,1,Sudeste,Google Ads,3.8
+2024-04-03,Áudio,1144.2,1,Nordeste,Instagram,4.9
+2024-04-03,Acessórios,34.63,4,Centro-Oeste,Instagram,4.5
+2024-04-03,Acessórios,236.9,3,Sudeste,Google Ads,3.6
+2024-04-03,Acessórios,148.71,3,Sudeste,Google Ads,5.0
+2024-04-04,Acessórios,209.95,3,Sudeste,Google Ads,3.9
+2024-04-05,Smartphones,2076.16,1,Sul,Instagram,3.2
+2024-04-06,TVs,2918.35,1,Centro-Oeste,Orgânico,4.2
+2024-04-08,Smartphones,1349.82,2,Sudeste,Google Ads,3.3
+2024-04-08,Acessórios,51.99,3,Sudeste,Google Ads,3.6
+2024-04-08,Notebooks,5138.8,2,Sudeste,Google Ads,3.2
+2024-04-09,Áudio,1139.28,3,Sudeste,Orgânico,4.2
+2024-04-10,Smartphones,2532.38,1,Sudeste,Google Ads,4.1
+2024-04-11,Áudio,845.0,1,Sudeste,Instagram,3.7
+2024-04-11,Acessórios,159.23,5,Sul,Orgânico,3.0
+2024-04-11,Smartphones,3487.15,1,Nordeste,E-mail,4.2
+2024-04-12,Acessórios,101.36,4,Nordeste,Orgânico,3.9
+2024-04-13,Acessórios,121.67,3,Sudeste,Orgânico,5.0
+2024-04-13,Acessórios,289.74,2,Nordeste,Instagram,2.8
+2024-04-15,Smartphones,4325.43,1,Nordeste,Instagram,4.2
+2024-04-15,Áudio,250.75,4,Centro-Oeste,Google Ads,4.2
+2024-04-15,Áudio,952.54,1,Sudeste,E-mail,4.6
+2024-04-15,Smartphones,1364.97,2,Sul,Instagram,3.4
+2024-04-15,TVs,2514.47,2,Nordeste,E-mail,4.7
+2024-04-17,TVs,2330.14,1,Nordeste,Google Ads,4.3
+2024-04-17,Notebooks,3712.67,1,Sudeste,Instagram,4.1
+2024-04-18,Smartphones,3118.41,2,Sul,Instagram,4.0
+2024-04-18,Acessórios,143.06,4,Nordeste,Instagram,4.0
+2024-04-19,Smartphones,4717.16,1,Nordeste,Instagram,2.5
+2024-04-20,TVs,4980.63,2,Centro-Oeste,Google Ads,3.7
+2024-04-21,Áudio,545.31,2,Sul,Instagram,5.0
+2024-04-22,Áudio,827.96,1,Norte,Instagram,4.7
+2024-04-25,Smartphones,2476.29,1,Sul,E-mail,4.9
+2024-04-25,Áudio,1493.13,5,Sudeste,Instagram,5.0
+2024-04-25,Notebooks,2560.67,1,Sul,Google Ads,3.2
+2024-04-26,Smartphones,2519.9,1,Sudeste,Google Ads,3.4
+2024-04-26,Acessórios,162.03,4,Sudeste,Orgânico,4.0
+2024-04-27,Acessórios,261.36,3,Sudeste,Google Ads,5.0
+2024-04-28,Acessórios,27.34,1,Nordeste,Google Ads,3.7
+2024-04-28,Áudio,550.77,1,Sudeste,E-mail,3.3
+2024-05-01,Smartphones,1626.76,1,Sudeste,Instagram,2.8
+2024-05-01,Notebooks,7230.7,1,Sudeste,Google Ads,3.3
+2024-05-01,Smartphones,1661.71,2,Norte,Orgânico,5.0
+2024-05-01,Smartphones,2210.23,1,Sudeste,Orgânico,4.1
+2024-05-01,Smartphones,3227.35,1,Norte,Google Ads,4.2
+2024-05-01,Áudio,433.97,1,Centro-Oeste,E-mail,4.7
+2024-05-01,Smartphones,3489.7,1,Sul,Instagram,3.8
+2024-05-02,Smartphones,4101.7,2,Sul,Orgânico,4.8
+2024-05-02,Acessórios,289.39,1,Sul,Orgânico,3.8
+2024-05-03,Áudio,269.55,1,Sudeste,Google Ads,4.3
+2024-05-03,Acessórios,160.32,1,Sul,E-mail,4.6
+2024-05-04,Smartphones,4829.9,1,Centro-Oeste,Orgânico,5.0
+2024-05-04,Smartphones,4356.49,1,Sudeste,Google Ads,4.7
+2024-05-05,Notebooks,5609.32,1,Sul,Instagram,4.0
+2024-05-05,Áudio,231.19,4,Sudeste,Google Ads,5.0
+2024-05-06,Notebooks,6389.81,2,Nordeste,Orgânico,5.0
+2024-05-07,Smartphones,1903.74,1,Sudeste,Orgânico,4.8
+2024-05-07,Acessórios,155.74,1,Centro-Oeste,Google Ads,4.3
+2024-05-07,TVs,5915.56,1,Sudeste,Orgânico,4.8
+2024-05-07,Notebooks,2601.15,2,Centro-Oeste,Instagram,3.6
+2024-05-07,Notebooks,3360.1,2,Sudeste,Google Ads,3.1
+2024-05-09,Áudio,1029.75,4,Norte,Orgânico,3.8
+2024-05-10,Acessórios,70.99,5,Sudeste,Instagram,3.8
+2024-05-10,Smartphones,1311.14,1,Nordeste,Google Ads,4.1
+2024-05-10,Acessórios,250.11,4,Sudeste,Instagram,4.7
+2024-05-11,Smartphones,3188.89,1,Sudeste,Orgânico,4.4
+2024-05-11,Smartphones,3617.91,2,Sudeste,Instagram,4.0
+2024-05-11,Áudio,1051.25,2,Nordeste,Instagram,4.0
+2024-05-12,Smartphones,3491.98,2,Norte,Google Ads,5.0
+2024-05-12,Acessórios,273.55,5,Norte,Google Ads,4.1
+2024-05-12,Acessórios,33.14,1,Sudeste,E-mail,3.8
+2024-05-13,Smartphones,2719.64,1,Centro-Oeste,E-mail,4.1
+2024-05-13,Áudio,152.54,5,Sul,Orgânico,4.3
+2024-05-13,Smartphones,4434.59,2,Nordeste,Google Ads,4.3
+2024-05-14,Acessórios,69.08,1,Sul,Instagram,4.5
+2024-05-14,Acessórios,45.64,3,Centro-Oeste,Google Ads,3.6
+2024-05-15,Smartphones,2297.04,2,Nordeste,Instagram,4.6
+2024-05-15,Acessórios,143.5,3,Centro-Oeste,Instagram,4.6
+2024-05-15,Acessórios,65.36,4,Sul,Instagram,4.7
+2024-05-16,Notebooks,6001.68,1,Sudeste,E-mail,5.0
+2024-05-16,Áudio,1056.46,1,Sudeste,Orgânico,3.7
+2024-05-17,Áudio,1128.52,4,Sudeste,Google Ads,4.7
+2024-05-17,TVs,4188.64,2,Centro-Oeste,Instagram,4.8
+2024-05-17,Notebooks,7470.48,2,Nordeste,Instagram,3.6
+2024-05-17,Notebooks,6998.09,2,Sudeste,Instagram,3.7
+2024-05-18,Smartphones,2063.62,2,Sul,Instagram,5.0
+2024-05-19,Smartphones,3041.49,2,Sudeste,E-mail,4.8
+2024-05-19,TVs,2299.95,2,Sudeste,Instagram,5.0
+2024-05-19,Smartphones,4190.23,1,Sul,E-mail,4.0
+2024-05-20,Acessórios,195.25,5,Sul,E-mail,4.2
+2024-05-20,TVs,4558.41,2,Nordeste,Google Ads,3.7
+2024-05-21,Notebooks,6182.81,2,Nordeste,E-mail,4.6
+2024-05-22,Notebooks,5595.13,2,Sul,Google Ads,4.0
+2024-05-22,Acessórios,152.18,3,Nordeste,Instagram,3.1
+2024-05-22,Notebooks,4906.82,1,Sudeste,E-mail,4.0
+2024-05-22,TVs,3169.67,2,Sudeste,Instagram,3.9
+2024-05-23,Notebooks,3173.07,1,Norte,E-mail,4.3
+2024-05-23,Smartphones,4432.21,1,Nordeste,Instagram,3.0
+2024-05-24,Smartphones,4446.0,1,Sul,Instagram,3.1
+2024-05-25,Acessórios,110.81,3,Sudeste,E-mail,3.0
+2024-05-26,Notebooks,4442.88,2,Sudeste,Orgânico,4.2
+2024-05-26,Acessórios,96.2,2,Sudeste,Instagram,4.5
+2024-05-26,Acessórios,42.57,2,Sudeste,Google Ads,4.7
+2024-05-27,Smartphones,3955.98,2,Sudeste,Instagram,4.0
+2024-05-27,Áudio,998.83,4,Centro-Oeste,Google Ads,4.0
+2024-05-27,TVs,5523.86,1,Sudeste,Google Ads,3.8
+2024-05-28,TVs,5170.87,2,Centro-Oeste,Orgânico,4.3
+2024-05-28,Notebooks,5931.43,2,Nordeste,E-mail,4.3
+2024-06-02,Áudio,982.85,1,Sudeste,Orgânico,4.4
+2024-06-02,Smartphones,4509.68,2,Nordeste,Instagram,4.7
+2024-06-04,Acessórios,37.44,4,Sul,Orgânico,4.5
+2024-06-05,Smartphones,4311.19,1,Centro-Oeste,E-mail,3.5
+2024-06-05,Acessórios,115.72,4,Sudeste,Orgânico,4.2
+2024-06-05,Acessórios,298.97,3,Nordeste,Orgânico,4.6
+2024-06-05,Smartphones,3293.26,1,Sudeste,Google Ads,3.3
+2024-06-06,Áudio,488.49,5,Nordeste,E-mail,3.9
+2024-06-06,Áudio,683.99,3,Sudeste,Orgânico,4.9
+2024-06-07,Acessórios,133.34,5,Sudeste,Orgânico,4.6
+2024-06-07,Notebooks,6801.15,2,Sudeste,Google Ads,4.4
+2024-06-08,TVs,3664.9,2,Sudeste,Orgânico,4.3
+2024-06-09,Notebooks,5908.35,1,Sudeste,Instagram,4.1
+2024-06-09,Áudio,368.26,2,Sudeste,Google Ads,4.6
+2024-06-09,Notebooks,5469.76,1,Sudeste,E-mail,3.6
+2024-06-09,Smartphones,1457.78,1,Sul,Instagram,3.4
+2024-06-10,Smartphones,2552.7,1,Centro-Oeste,Orgânico,4.3
+2024-06-10,Notebooks,5291.07,1,Norte,E-mail,4.4
+2024-06-11,Áudio,668.17,1,Sudeste,Google Ads,4.6
+2024-06-11,Acessórios,154.37,3,Nordeste,Orgânico,3.8
+2024-06-12,Acessórios,140.09,1,Nordeste,Orgânico,3.8
+2024-06-13,TVs,4439.68,1,Sul,E-mail,4.4
+2024-06-14,Smartphones,4986.07,1,Sul,Instagram,3.6
+2024-06-15,TVs,2949.97,2,Centro-Oeste,Orgânico,4.6
+2024-06-15,TVs,4367.41,2,Sudeste,Instagram,4.0
+2024-06-16,Smartphones,4834.38,1,Sudeste,Instagram,4.4
+2024-06-16,Áudio,797.13,1,Nordeste,E-mail,5.0
+2024-06-16,Smartphones,4168.45,2,Nordeste,E-mail,4.5
+2024-06-16,Smartphones,4276.21,1,Sul,Instagram,4.5
+2024-06-17,Smartphones,2043.49,2,Sudeste,Google Ads,5.0
+2024-06-17,Áudio,471.55,2,Sul,Instagram,3.7
+2024-06-17,Acessórios,47.07,1,Sudeste,E-mail,5.0
+2024-06-18,Áudio,760.47,5,Sudeste,Google Ads,3.2
+2024-06-18,Acessórios,121.02,2,Sudeste,Google Ads,4.7
+2024-06-19,Notebooks,2649.42,1,Sudeste,Instagram,3.2
+2024-06-20,Áudio,243.09,4,Nordeste,Orgânico,4.0
+2024-06-20,TVs,4146.26,2,Sul,Instagram,4.1
+2024-06-21,Smartphones,1446.95,2,Sul,Google Ads,3.4
+2024-06-21,Acessórios,275.31,2,Nordeste,Instagram,5.0
+2024-06-21,Notebooks,3643.37,1,Sul,Google Ads,3.8
+2024-06-22,Áudio,151.66,1,Nordeste,Orgânico,3.9
+2024-06-22,Notebooks,3750.75,2,Centro-Oeste,Instagram,4.7
+2024-06-23,Áudio,1395.72,1,Sudeste,Orgânico,4.1
+2024-06-23,Áudio,353.93,4,Sudeste,Google Ads,4.2
+2024-06-23,Smartphones,2546.1,1,Sudeste,Instagram,2.6
+2024-06-24,Áudio,604.1,4,Sudeste,Instagram,4.1
+2024-06-24,Smartphones,3529.17,2,Nordeste,Instagram,3.3
+2024-06-24,Acessórios,186.54,1,Sudeste,Google Ads,3.7
+2024-06-25,Acessórios,158.89,1,Sudeste,Google Ads,4.3
+2024-06-25,TVs,4930.28,1,Sudeste,Google Ads,3.1
+2024-06-25,Áudio,871.23,1,Nordeste,Google Ads,4.2
+2024-06-26,Acessórios,152.18,5,Nordeste,Instagram,4.2
+2024-06-27,Notebooks,5700.84,1,Sul,Google Ads,3.7
+2024-06-27,Smartphones,4474.79,1,Centro-Oeste,Instagram,4.7
+2024-06-28,Notebooks,5135.51,1,Norte,Instagram,4.4
+2024-06-28,Acessórios,184.03,5,Sudeste,Instagram,4.1
+2024-06-28,Áudio,1034.26,3,Sudeste,Instagram,4.3
+2024-06-28,Acessórios,87.77,1,Sul,Instagram,4.2
+2024-07-01,Áudio,1358.0,4,Centro-Oeste,Orgânico,3.4
+2024-07-02,Áudio,1325.28,3,Sudeste,Orgânico,5.0
+2024-07-02,TVs,2090.6,1,Sul,Orgânico,4.9
+2024-07-03,Smartphones,1974.31,2,Sul,Instagram,4.8
+2024-07-03,Acessórios,24.9,2,Sudeste,Instagram,3.0
+2024-07-04,Notebooks,5061.97,1,Centro-Oeste,Instagram,5.0
+2024-07-04,Smartphones,3540.28,2,Sudeste,Instagram,4.9
+2024-07-04,Smartphones,3095.77,2,Centro-Oeste,Orgânico,4.9
+2024-07-04,Smartphones,3037.47,1,Sudeste,Instagram,4.1
+2024-07-05,Smartphones,3132.6,2,Sudeste,E-mail,4.8
+2024-07-05,Smartphones,3687.83,1,Sul,Orgânico,4.1
+2024-07-05,Smartphones,4695.45,2,Centro-Oeste,Orgânico,4.5
+2024-07-07,Áudio,921.28,2,Nordeste,Google Ads,4.0
+2024-07-08,Smartphones,3960.55,1,Sudeste,Instagram,4.1
+2024-07-09,Áudio,568.99,5,Nordeste,Instagram,3.7
+2024-07-09,Acessórios,23.08,5,Norte,E-mail,4.0
+2024-07-09,Áudio,1122.27,5,Sul,Instagram,4.1
+2024-07-10,Áudio,397.07,1,Sul,Instagram,4.0
+2024-07-11,Acessórios,74.91,5,Centro-Oeste,Orgânico,4.8
+2024-07-11,Acessórios,171.17,4,Sudeste,Google Ads,3.1
+2024-07-11,Smartphones,4370.35,1,Sudeste,Orgânico,4.0
+2024-07-11,Smartphones,4612.52,1,Sudeste,Instagram,4.7
+2024-07-12,Acessórios,64.59,1,Nordeste,E-mail,3.0
+2024-07-13,Acessórios,23.39,5,Sudeste,Google Ads,3.4
+2024-07-14,Acessórios,83.86,1,Nordeste,Instagram,3.2
+2024-07-14,Smartphones,1610.19,1,Sudeste,Google Ads,4.2
+2024-07-14,Acessórios,116.91,4,Sul,Instagram,4.8
+2024-07-14,Smartphones,2953.92,2,Sudeste,Orgânico,4.7
+2024-07-15,Áudio,685.85,2,Sul,Google Ads,3.8
+2024-07-15,Acessórios,25.37,5,Norte,Orgânico,5.0
+2024-07-16,Smartphones,3698.73,1,Sul,Instagram,4.4
+2024-07-16,Acessórios,96.43,5,Norte,Instagram,4.2
+2024-07-16,Acessórios,140.3,3,Norte,E-mail,4.7
+2024-07-17,Acessórios,74.08,5,Nordeste,E-mail,4.6
+2024-07-17,Smartphones,1779.18,1,Sudeste,E-mail,4.5
+2024-07-18,Acessórios,136.45,4,Sudeste,Instagram,4.0
+2024-07-18,TVs,2145.94,2,Sul,Instagram,4.1
+2024-07-18,Áudio,189.25,4,Sudeste,Google Ads,3.6
+2024-07-19,Notebooks,2560.67,2,Sudeste,Google Ads,3.1
+2024-07-20,Acessórios,109.81,2,Sudeste,Orgânico,4.2
+2024-07-20,Áudio,923.61,2,Nordeste,Instagram,4.5
+2024-07-20,Smartphones,4555.04,2,Sul,Instagram,4.2
+2024-07-21,Acessórios,133.23,2,Sudeste,Orgânico,5.0
+2024-07-21,Acessórios,80.69,1,Sul,Instagram,3.8
+2024-07-21,Áudio,857.93,4,Sul,Orgânico,4.4
+2024-07-22,Áudio,949.75,2,Nordeste,Instagram,4.4
+2024-07-23,Áudio,828.46,1,Centro-Oeste,Orgânico,4.0
+2024-07-24,Smartphones,3209.96,2,Sul,Orgânico,3.3
+2024-07-24,Notebooks,6220.82,1,Sul,Google Ads,5.0
+2024-07-25,Acessórios,205.53,1,Nordeste,Google Ads,4.0
+2024-07-25,Smartphones,3093.8,2,Sudeste,Google Ads,4.2
+2024-07-25,Notebooks,6139.1,1,Sudeste,Google Ads,3.5
+2024-07-26,Smartphones,4655.68,2,Sul,Instagram,3.9
+2024-07-26,Smartphones,2329.95,1,Sudeste,Instagram,3.9
+2024-07-26,TVs,4353.03,2,Centro-Oeste,Orgânico,3.9
+2024-07-27,Acessórios,274.53,2,Sul,Google Ads,5.0
+2024-07-27,Áudio,455.3,2,Sudeste,E-mail,4.2
+2024-07-28,Acessórios,271.15,2,Sudeste,Instagram,3.4
+2024-07-28,Notebooks,4844.0,1,Sul,E-mail,4.1
+2024-07-28,Áudio,598.4,3,Nordeste,Google Ads,3.6
+2024-08-02,Smartphones,1346.02,2,Sul,Instagram,4.5
+2024-08-02,Acessórios,54.43,5,Centro-Oeste,Google Ads,3.7
+2024-08-02,Áudio,832.9,4,Sul,Google Ads,3.5
+2024-08-03,Áudio,322.41,4,Sudeste,Instagram,3.1
+2024-08-03,Notebooks,3888.8,1,Sudeste,Instagram,5.0
+2024-08-04,Smartphones,1907.19,1,Sul,Google Ads,3.5
+2024-08-05,Acessórios,24.43,4,Sul,Orgânico,4.6
+2024-08-06,Smartphones,1316.48,1,Sul,Google Ads,4.5
+2024-08-06,Áudio,891.86,4,Sul,Google Ads,3.9
+2024-08-06,Áudio,1442.31,5,Sudeste,Google Ads,4.0
+2024-08-07,Áudio,1329.46,1,Sudeste,Google Ads,4.0
+2024-08-07,TVs,1809.21,2,Centro-Oeste,E-mail,4.8
+2024-08-08,Áudio,1211.57,3,Norte,Instagram,3.8
+2024-08-08,Áudio,1263.93,3,Sudeste,Instagram,4.2
+2024-08-08,Acessórios,59.47,1,Centro-Oeste,Instagram,3.9
+2024-08-09,Acessórios,92.36,2,Sudeste,E-mail,4.7
+2024-08-09,TVs,4992.0,2,Norte,Instagram,3.9
+2024-08-10,Acessórios,137.04,1,Sudeste,Instagram,4.4
+2024-08-10,Smartphones,3250.07,1,Sudeste,Google Ads,3.7
+2024-08-10,Acessórios,81.82,5,Nordeste,Orgânico,3.4
+2024-08-10,Notebooks,4694.75,1,Sudeste,Instagram,4.4
+2024-08-10,Áudio,1222.99,5,Nordeste,Google Ads,4.0
+2024-08-10,Notebooks,5213.02,2,Nordeste,Orgânico,4.7
+2024-08-10,Smartphones,3055.32,2,Nordeste,Instagram,4.0
+2024-08-11,Acessórios,135.58,5,Sudeste,Instagram,3.4
+2024-08-11,Notebooks,7685.02,1,Sudeste,Google Ads,3.7
+2024-08-13,Notebooks,6179.62,2,Centro-Oeste,Google Ads,3.6
+2024-08-13,Smartphones,1784.41,1,Centro-Oeste,Orgânico,4.8
+2024-08-13,Notebooks,6670.02,1,Sudeste,Orgânico,3.2
+2024-08-14,Smartphones,4492.47,1,Sudeste,Instagram,3.9
+2024-08-14,Smartphones,1208.89,1,Nordeste,Instagram,3.1
+2024-08-14,Acessórios,23.67,5,Nordeste,Orgânico,3.4
+2024-08-15,Áudio,1126.62,2,Norte,E-mail,5.0
+2024-08-15,Smartphones,2467.3,1,Sudeste,Orgânico,4.6
+2024-08-15,Smartphones,1445.54,2,Centro-Oeste,Google Ads,4.9
+2024-08-16,Notebooks,2527.17,2,Norte,E-mail,3.8
+2024-08-16,Acessórios,243.94,5,Norte,Google Ads,4.6
+2024-08-16,Smartphones,4858.07,2,Norte,Instagram,4.1
+2024-08-16,Áudio,719.38,5,Norte,E-mail,4.3
+2024-08-17,Acessórios,252.09,1,Centro-Oeste,Instagram,3.8
+2024-08-17,Smartphones,3326.63,1,Sudeste,E-mail,3.7
+2024-08-18,Smartphones,2427.9,1,Sul,Orgânico,4.6
+2024-08-18,Acessórios,250.27,3,Sudeste,Orgânico,3.3
+2024-08-19,Áudio,524.31,5,Norte,E-mail,3.9
+2024-08-19,Acessórios,250.0,2,Sudeste,Orgânico,4.3
+2024-08-19,Notebooks,5240.41,2,Sudeste,Orgânico,4.3
+2024-08-20,Smartphones,2230.36,2,Sul,Google Ads,4.2
+2024-08-21,TVs,5781.97,1,Nordeste,Google Ads,3.8
+2024-08-21,Acessórios,64.23,4,Sudeste,Google Ads,4.3
+2024-08-21,Notebooks,2861.4,2,Sudeste,Instagram,4.6
+2024-08-22,TVs,2102.12,1,Centro-Oeste,Orgânico,5.0
+2024-08-22,Áudio,855.35,4,Sudeste,Instagram,3.6
+2024-08-23,Smartphones,4002.81,2,Sudeste,Instagram,4.4
+2024-08-23,Áudio,1340.88,5,Sudeste,E-mail,4.2
+2024-08-24,Smartphones,2034.14,2,Sul,E-mail,4.7
+2024-08-25,Notebooks,5856.84,2,Sudeste,E-mail,4.8
+2024-08-25,Notebooks,7450.13,2,Sudeste,Instagram,4.4
+2024-08-25,TVs,3211.89,1,Nordeste,Orgânico,3.8
+2024-08-26,Acessórios,204.7,4,Sudeste,Instagram,4.3
+2024-08-26,Smartphones,2766.1,1,Sudeste,Google Ads,3.8
+2024-08-26,Notebooks,3454.14,2,Sudeste,Orgânico,4.6
+2024-08-27,Smartphones,2269.29,2,Sul,Google Ads,3.7
+2024-08-27,Notebooks,5761.17,2,Sudeste,Google Ads,4.6
+2024-08-27,Acessórios,283.45,5,Sudeste,Orgânico,4.4
+2024-08-28,Acessórios,42.24,5,Sudeste,Google Ads,3.9
+2024-08-28,TVs,4921.3,2,Sudeste,Orgânico,4.1
+2024-08-28,Áudio,1323.5,1,Nordeste,Google Ads,4.3
+2024-09-01,Áudio,289.18,5,Sudeste,Instagram,4.7
+2024-09-01,Acessórios,152.5,5,Nordeste,Instagram,4.3
+2024-09-02,Smartphones,3673.7,2,Sudeste,Orgânico,4.6
+2024-09-02,Notebooks,2869.46,1,Sul,Google Ads,3.1
+2024-09-02,Áudio,982.48,1,Sul,Instagram,4.0
+2024-09-02,Notebooks,3497.26,1,Sul,Google Ads,5.0
+2024-09-03,Acessórios,190.05,4,Norte,Instagram,4.1
+2024-09-04,Áudio,797.03,3,Sudeste,Google Ads,3.5
+2024-09-04,Notebooks,3016.45,2,Norte,Instagram,4.3
+2024-09-04,Áudio,1118.76,1,Nordeste,Instagram,4.5
+2024-09-06,Acessórios,103.54,2,Sul,Instagram,3.6
+2024-09-06,Acessórios,213.84,1,Nordeste,E-mail,4.3
+2024-09-06,Smartphones,4520.78,2,Sul,Google Ads,4.6
+2024-09-07,Smartphones,4511.84,2,Centro-Oeste,Orgânico,4.2
+2024-09-07,Áudio,1016.66,4,Centro-Oeste,Orgânico,4.3
+2024-09-08,Áudio,1158.28,4,Nordeste,Orgânico,3.7
+2024-09-11,TVs,4075.92,2,Nordeste,Orgânico,3.7
+2024-09-11,Smartphones,4498.61,2,Sudeste,Instagram,5.0
+2024-09-11,Smartphones,3632.01,1,Nordeste,Instagram,3.9
+2024-09-12,Áudio,354.18,4,Sul,E-mail,4.8
+2024-09-12,Áudio,948.22,5,Nordeste,Google Ads,4.0
+2024-09-13,Acessórios,109.35,2,Sudeste,Instagram,4.0
+2024-09-13,Smartphones,3138.42,1,Sudeste,Orgânico,4.3
+2024-09-14,Áudio,853.7,4,Sudeste,Instagram,4.3
+2024-09-15,Áudio,949.67,5,Sudeste,Instagram,5.0
+2024-09-16,Smartphones,4440.72,2,Sudeste,Google Ads,3.7
+2024-09-16,Smartphones,2038.13,2,Sudeste,Google Ads,4.7
+2024-09-16,Acessórios,263.02,3,Centro-Oeste,Instagram,4.3
+2024-09-17,Smartphones,2739.08,2,Sudeste,Instagram,5.0
+2024-09-17,Acessórios,66.59,4,Sudeste,Orgânico,4.1
+2024-09-17,Acessórios,58.59,5,Sul,Orgânico,4.4
+2024-09-18,Áudio,1036.59,1,Sudeste,Orgânico,4.1
+2024-09-18,Smartphones,1878.09,1,Sudeste,Orgânico,4.4
+2024-09-19,Acessórios,258.61,2,Sudeste,Orgânico,3.6
+2024-09-19,TVs,2749.14,2,Sudeste,Orgânico,4.3
+2024-09-19,Notebooks,3995.72,2,Sudeste,Google Ads,3.1
+2024-09-20,Notebooks,6716.24,1,Sudeste,Google Ads,3.6
+2024-09-21,Acessórios,138.65,2,Sudeste,E-mail,3.7
+2024-09-22,Smartphones,2020.95,2,Sudeste,Google Ads,3.8
+2024-09-22,Áudio,1409.0,3,Norte,Google Ads,4.0
+2024-09-22,Acessórios,190.39,1,Centro-Oeste,Google Ads,4.8
+2024-09-23,TVs,5415.44,2,Sudeste,Instagram,5.0
+2024-09-24,Áudio,452.15,1,Sudeste,Orgânico,4.5
+2024-09-24,Notebooks,3543.32,1,Sudeste,E-mail,3.6
+2024-09-24,Smartphones,1462.7,1,Sul,Orgânico,4.2
+2024-09-25,Notebooks,7453.86,2,Nordeste,Google Ads,4.2
+2024-09-25,Smartphones,1400.2,1,Sudeste,Instagram,4.6
+2024-09-25,Acessórios,268.49,4,Sudeste,Google Ads,4.7
+2024-09-25,Notebooks,4360.47,2,Sudeste,Orgânico,3.8
+2024-09-25,Smartphones,4284.66,2,Sudeste,Instagram,4.7
+2024-09-25,Notebooks,5882.57,2,Sudeste,Instagram,3.7
+2024-09-25,Notebooks,4343.15,2,Centro-Oeste,Google Ads,5.0
+2024-09-26,Smartphones,2440.55,2,Nordeste,Orgânico,4.0
+2024-09-27,Acessórios,163.55,2,Nordeste,Instagram,3.8
+2024-09-28,Áudio,1245.89,4,Sudeste,Instagram,3.3
+2024-09-28,Áudio,483.76,4,Sudeste,Orgânico,4.1
+2024-09-28,TVs,1651.26,2,Sudeste,Instagram,3.7
+2024-10-01,Smartphones,3053.85,1,Sudeste,Instagram,4.1
+2024-10-03,Acessórios,20.94,5,Nordeste,Instagram,4.5
+2024-10-04,Smartphones,1350.55,2,Nordeste,Orgânico,5.0
+2024-10-04,Smartphones,2849.27,2,Nordeste,Orgânico,4.0
+2024-10-05,Smartphones,2905.04,1,Nordeste,Google Ads,3.9
+2024-10-05,Acessórios,132.54,5,Sudeste,Instagram,3.6
+2024-10-05,Acessórios,194.68,1,Norte,Orgânico,5.0
+2024-10-05,Acessórios,85.11,5,Sudeste,Google Ads,4.6
+2024-10-05,Acessórios,54.38,3,Nordeste,E-mail,3.8
+2024-10-06,Acessórios,140.49,1,Sudeste,Orgânico,4.2
+2024-10-06,Acessórios,238.55,2,Nordeste,Instagram,4.8
+2024-10-06,Acessórios,295.51,1,Sudeste,Google Ads,4.6
+2024-10-07,TVs,1694.28,2,Sul,Google Ads,4.3
+2024-10-07,Smartphones,3223.89,1,Sudeste,E-mail,4.7
+2024-10-08,Acessórios,141.85,5,Sudeste,Instagram,4.1
+2024-10-08,Smartphones,4653.06,2,Sudeste,Google Ads,4.1
+2024-10-09,Acessórios,50.55,2,Sudeste,E-mail,5.0
+2024-10-09,Acessórios,263.06,3,Sul,Google Ads,3.7
+2024-10-09,Notebooks,7888.06,1,Sudeste,Google Ads,3.8
+2024-10-09,Acessórios,104.88,2,Sudeste,Instagram,4.0
+2024-10-09,Notebooks,5525.51,2,Sudeste,Google Ads,4.1
+2024-10-09,Acessórios,142.12,4,Sul,Orgânico,4.1
+2024-10-10,Notebooks,3746.61,1,Centro-Oeste,Orgânico,4.2
+2024-10-10,Notebooks,3815.49,1,Sul,Orgânico,4.7
+2024-10-10,Notebooks,7289.14,1,Sul,Google Ads,3.9
+2024-10-10,Notebooks,3989.1,2,Sudeste,Instagram,5.0
+2024-10-10,TVs,2575.75,1,Nordeste,Instagram,4.6
+2024-10-11,Acessórios,71.68,1,Sul,Instagram,2.4
+2024-10-11,Áudio,912.0,2,Sudeste,Orgânico,4.7
+2024-10-12,Notebooks,2923.24,1,Centro-Oeste,Google Ads,4.3
+2024-10-12,Smartphones,2950.05,2,Sul,Google Ads,3.7
+2024-10-13,Smartphones,4194.03,2,Sudeste,Instagram,4.2
+2024-10-13,Áudio,463.13,5,Sudeste,Google Ads,4.1
+2024-10-13,Áudio,406.94,2,Sudeste,Instagram,3.5
+2024-10-14,Notebooks,6168.34,1,Centro-Oeste,E-mail,3.9
+2024-10-14,Smartphones,1419.57,2,Centro-Oeste,Orgânico,4.8
+2024-10-15,Notebooks,3384.54,2,Nordeste,Google Ads,4.9
+2024-10-15,Smartphones,2744.29,1,Sudeste,E-mail,3.2
+2024-10-15,Smartphones,4942.4,2,Norte,Google Ads,3.4
+2024-10-15,Acessórios,162.34,3,Norte,Google Ads,4.6
+2024-10-16,Acessórios,258.4,2,Nordeste,Google Ads,4.9
+2024-10-17,TVs,5502.26,1,Sudeste,Instagram,3.3
+2024-10-17,Acessórios,134.64,1,Sudeste,E-mail,4.6
+2024-10-17,Notebooks,5670.84,2,Centro-Oeste,Instagram,4.0
+2024-10-17,Acessórios,152.6,2,Sudeste,Instagram,3.0
+2024-10-18,Acessórios,129.4,3,Sudeste,Google Ads,4.5
+2024-10-19,Acessórios,245.84,5,Norte,Google Ads,3.5
+2024-10-19,Áudio,1483.43,1,Sudeste,Orgânico,5.0
+2024-10-19,Acessórios,41.04,1,Sul,Orgânico,3.9
+2024-10-19,Acessórios,176.7,2,Norte,Instagram,4.5
+2024-10-19,Acessórios,299.42,4,Sudeste,E-mail,3.6
+2024-10-20,Áudio,1483.51,3,Sul,E-mail,4.1
+2024-10-20,Áudio,384.57,4,Sul,Instagram,4.2
+2024-10-20,Smartphones,2664.43,2,Sudeste,Google Ads,4.8
+2024-10-22,Acessórios,243.98,3,Sudeste,E-mail,4.3
+2024-10-22,Acessórios,37.67,4,Nordeste,Instagram,3.2
+2024-10-22,TVs,5331.52,2,Norte,Google Ads,4.2
+2024-10-23,Áudio,1145.63,1,Sul,Instagram,3.8
+2024-10-23,Smartphones,2214.71,2,Nordeste,E-mail,4.2
+2024-10-23,Notebooks,4180.38,2,Sudeste,Google Ads,4.4
+2024-10-24,Notebooks,4005.85,2,Sudeste,Instagram,3.1
+2024-10-24,Acessórios,194.99,5,Nordeste,Instagram,4.3
+2024-10-24,Áudio,364.12,3,Nordeste,E-mail,3.9
+2024-10-25,Smartphones,3157.66,1,Sudeste,Orgânico,3.4
+2024-10-26,Smartphones,1589.54,2,Sul,E-mail,5.0
+2024-10-26,Notebooks,3017.84,1,Sul,Google Ads,4.8
+2024-10-26,TVs,4141.81,1,Centro-Oeste,Google Ads,4.2
+2024-10-26,Áudio,381.77,5,Sudeste,Google Ads,3.5
+2024-10-27,Áudio,1469.58,2,Nordeste,Google Ads,4.4
+2024-10-27,Acessórios,95.23,2,Sul,Orgânico,4.7
+2024-10-27,Notebooks,5982.82,1,Sudeste,Orgânico,4.4
+2024-10-27,Áudio,1139.7,3,Sudeste,Google Ads,4.4
+2024-10-27,Smartphones,3626.4,2,Sul,Google Ads,4.2
+2024-10-27,Smartphones,2611.4,1,Sudeste,Google Ads,4.2
+2024-10-27,Smartphones,2872.76,2,Centro-Oeste,Google Ads,3.9
+2024-10-27,Áudio,437.69,1,Norte,Orgânico,4.2
+2024-10-27,Smartphones,4046.81,1,Sudeste,Google Ads,4.9
+2024-10-28,Áudio,860.94,4,Sudeste,Orgânico,3.9
+2024-10-28,Acessórios,58.99,4,Sul,E-mail,3.9
+2024-11-01,Smartphones,2261.6,2,Sul,Instagram,4.0
+2024-11-01,Áudio,523.2,1,Nordeste,Instagram,4.3
+2024-11-01,Acessórios,61.54,5,Sudeste,Orgânico,3.9
+2024-11-01,TVs,5771.88,1,Sul,Instagram,4.0
+2024-11-01,Áudio,1310.41,2,Sudeste,E-mail,3.1
+2024-11-01,Áudio,1253.55,4,Sul,E-mail,5.0
+2024-11-02,Acessórios,215.35,3,Sudeste,Google Ads,5.0
+2024-11-02,Notebooks,7733.13,2,Nordeste,Instagram,4.6
+2024-11-02,Acessórios,192.86,5,Sudeste,Instagram,3.4
+2024-11-03,Áudio,695.83,5,Sudeste,Instagram,4.0
+2024-11-03,TVs,4873.43,1,Nordeste,Orgânico,3.7
+2024-11-03,Acessórios,256.54,4,Nordeste,Orgânico,5.0
+2024-11-03,Áudio,509.13,5,Centro-Oeste,Google Ads,3.8
+2024-11-04,Smartphones,1395.42,2,Norte,Instagram,3.4
+2024-11-04,Acessórios,240.58,2,Sul,Google Ads,4.2
+2024-11-04,Notebooks,6483.86,2,Nordeste,Orgânico,4.9
+2024-11-04,Smartphones,1537.32,1,Sudeste,Google Ads,4.4
+2024-11-04,Acessórios,245.49,3,Sudeste,E-mail,4.6
+2024-11-04,Smartphones,2377.76,2,Nordeste,Instagram,3.9
+2024-11-05,Áudio,1255.22,3,Sudeste,Instagram,3.7
+2024-11-06,Notebooks,3610.19,1,Sudeste,Orgânico,4.4
+2024-11-06,Smartphones,3011.44,1,Nordeste,Orgânico,3.2
+2024-11-07,Smartphones,4049.85,1,Centro-Oeste,Google Ads,4.7
+2024-11-07,Notebooks,4968.28,2,Sudeste,Google Ads,3.7
+2024-11-07,Smartphones,1601.64,2,Sudeste,Instagram,4.3
+2024-11-07,Acessórios,40.18,3,Sudeste,Google Ads,4.6
+2024-11-07,Notebooks,4244.58,1,Sudeste,Instagram,3.9
+2024-11-07,TVs,2316.47,1,Sudeste,E-mail,4.5
+2024-11-07,Acessórios,224.76,5,Sudeste,Instagram,3.2
+2024-11-07,Smartphones,4055.23,2,Nordeste,Google Ads,4.0
+2024-11-08,Acessórios,35.37,3,Sudeste,Google Ads,4.0
+2024-11-08,Áudio,1264.02,5,Nordeste,Instagram,4.6
+2024-11-08,Notebooks,7651.33,1,Sudeste,Instagram,5.0
+2024-11-09,TVs,3955.59,1,Nordeste,Instagram,4.2
+2024-11-10,Acessórios,186.61,1,Nordeste,Instagram,4.8
+2024-11-10,Áudio,860.88,1,Sudeste,E-mail,4.3
+2024-11-10,Smartphones,3547.82,2,Sudeste,Google Ads,4.3
+2024-11-10,Smartphones,4499.44,1,Sul,Instagram,4.0
+2024-11-10,Áudio,1128.96,5,Norte,Google Ads,3.7
+2024-11-10,Áudio,770.73,2,Sudeste,Orgânico,4.3
+2024-11-11,Acessórios,281.27,5,Sudeste,Google Ads,4.1
+2024-11-11,Áudio,1294.82,2,Sudeste,Instagram,3.3
+2024-11-11,Smartphones,4292.31,1,Sul,E-mail,3.1
+2024-11-12,Smartphones,2786.52,1,Norte,E-mail,3.6
+2024-11-12,Notebooks,2785.76,1,Sul,E-mail,3.3
+2024-11-12,Acessórios,188.17,3,Sudeste,Google Ads,4.8
+2024-11-12,Áudio,1163.48,1,Sudeste,Instagram,3.6
+2024-11-12,Acessórios,257.45,2,Sul,Instagram,4.1
+2024-11-13,Acessórios,258.17,1,Nordeste,Google Ads,3.7
+2024-11-13,TVs,2686.58,1,Sudeste,E-mail,5.0
+2024-11-14,Acessórios,284.49,2,Sul,Instagram,3.4
+2024-11-14,Notebooks,4496.19,1,Sudeste,Instagram,4.6
+2024-11-15,Smartphones,3233.26,2,Nordeste,Orgânico,3.5
+2024-11-15,TVs,4920.42,1,Sudeste,Orgânico,4.3
+2024-11-15,Smartphones,4372.73,2,Norte,Google Ads,4.3
+2024-11-15,Smartphones,1834.76,2,Sudeste,Orgânico,4.8
+2024-11-15,Smartphones,1334.18,1,Nordeste,Orgânico,4.0
+2024-11-15,Smartphones,3998.33,1,Sudeste,Orgânico,4.8
+2024-11-16,Acessórios,279.61,5,Sudeste,E-mail,4.1
+2024-11-16,TVs,1963.42,2,Norte,Google Ads,4.8
+2024-11-16,Smartphones,1795.23,2,Sudeste,Google Ads,4.3
+2024-11-16,Smartphones,3215.01,2,Sudeste,Google Ads,3.5
+2024-11-16,Smartphones,1459.35,1,Sudeste,Orgânico,3.7
+2024-11-17,Smartphones,4035.59,1,Sudeste,Instagram,3.7
+2024-11-17,Smartphones,4351.46,2,Sudeste,Google Ads,4.2
+2024-11-17,Smartphones,4393.72,1,Sul,E-mail,4.6
+2024-11-17,Áudio,374.48,3,Sul,Google Ads,3.3
+2024-11-17,Notebooks,6131.66,2,Nordeste,Orgânico,3.5
+2024-11-17,Acessórios,293.28,2,Nordeste,E-mail,4.3
+2024-11-17,Áudio,210.2,4,Sul,Google Ads,4.8
+2024-11-17,Acessórios,45.33,1,Norte,Google Ads,4.3
+2024-11-18,Áudio,1427.96,2,Centro-Oeste,Google Ads,4.7
+2024-11-18,Smartphones,4183.06,1,Nordeste,Instagram,3.7
+2024-11-19,Notebooks,3382.2,1,Sudeste,Instagram,4.1
+2024-11-19,Notebooks,3705.68,1,Sudeste,Instagram,5.0
+2024-11-19,Smartphones,2926.63,2,Sudeste,Google Ads,3.4
+2024-11-19,Smartphones,3435.4,1,Sudeste,Google Ads,4.4
+2024-11-19,Acessórios,263.21,5,Sul,Orgânico,4.0
+2024-11-19,Acessórios,126.31,4,Centro-Oeste,Orgânico,4.2
+2024-11-19,TVs,4186.71,2,Nordeste,Instagram,4.6
+2024-11-19,Acessórios,65.47,5,Nordeste,Google Ads,4.4
+2024-11-20,Notebooks,5102.65,2,Centro-Oeste,Orgânico,4.5
+2024-11-20,Acessórios,63.02,3,Sudeste,Google Ads,4.6
+2024-11-20,TVs,4022.97,2,Nordeste,Orgânico,3.5
+2024-11-21,Acessórios,126.34,2,Centro-Oeste,Google Ads,3.8
+2024-11-21,Smartphones,2848.44,2,Sul,Google Ads,4.0
+2024-11-21,Acessórios,122.91,5,Sudeste,Instagram,3.8
+2024-11-22,Acessórios,195.83,2,Sudeste,Google Ads,4.2
+2024-11-22,Smartphones,3913.42,2,Sul,Orgânico,4.5
+2024-11-22,Smartphones,4034.52,2,Norte,Orgânico,5.0
+2024-11-22,Acessórios,248.43,5,Sudeste,Instagram,5.0
+2024-11-22,Áudio,656.6,1,Sudeste,Orgânico,3.6
+2024-11-23,Notebooks,7726.31,1,Sudeste,Google Ads,3.8
+2024-11-23,Acessórios,57.04,5,Centro-Oeste,Orgânico,4.9
+2024-11-23,Smartphones,3486.12,2,Sudeste,Google Ads,4.5
+2024-11-23,Acessórios,156.88,4,Nordeste,Orgânico,4.1
+2024-11-23,Smartphones,4655.04,1,Sudeste,Google Ads,4.7
+2024-11-23,Smartphones,2087.71,1,Sudeste,Orgânico,4.2
+2024-11-23,Notebooks,4134.17,1,Sudeste,Instagram,4.0
+2024-11-24,Smartphones,2335.16,1,Nordeste,Instagram,4.6
+2024-11-24,Áudio,1405.62,4,Centro-Oeste,Orgânico,4.5
+2024-11-25,Acessórios,155.71,5,Nordeste,Google Ads,4.3
+2024-11-25,TVs,3835.77,2,Sudeste,E-mail,4.4
+2024-11-26,Áudio,619.22,4,Norte,Orgânico,4.7
+2024-11-26,TVs,1640.32,2,Centro-Oeste,E-mail,4.0
+2024-11-26,Smartphones,4106.56,2,Sudeste,Google Ads,4.3
+2024-11-27,TVs,4912.77,1,Sul,E-mail,3.7
+2024-11-27,TVs,4917.05,1,Sudeste,Orgânico,4.7
+2024-11-27,TVs,4995.2,2,Sul,Instagram,4.1
+2024-11-27,TVs,5659.78,2,Sul,Orgânico,4.9
+2024-11-27,Acessórios,126.45,2,Sudeste,Orgânico,4.2
+2024-11-28,Acessórios,155.63,3,Centro-Oeste,Instagram,4.2
+2024-11-28,Smartphones,2614.23,1,Sul,Google Ads,4.0
+2024-12-01,Acessórios,53.55,3,Centro-Oeste,Instagram,4.4
+2024-12-01,Acessórios,151.65,5,Sudeste,Google Ads,4.0
+2024-12-01,Notebooks,3699.13,2,Sul,Google Ads,3.8
+2024-12-01,Notebooks,7443.95,2,Nordeste,Orgânico,4.1
+2024-12-02,TVs,5776.41,1,Nordeste,Google Ads,3.8
+2024-12-02,Acessórios,124.35,3,Nordeste,E-mail,4.4
+2024-12-02,Acessórios,20.07,5,Sudeste,Orgânico,4.7
+2024-12-02,Acessórios,26.88,3,Sudeste,Instagram,4.3
+2024-12-03,Smartphones,3038.27,2,Nordeste,Instagram,3.3
+2024-12-03,Áudio,845.49,4,Sul,Instagram,5.0
+2024-12-03,Notebooks,4016.46,1,Sul,Instagram,5.0
+2024-12-03,Áudio,351.15,5,Sudeste,Orgânico,3.8
+2024-12-03,Áudio,180.96,3,Sudeste,E-mail,3.0
+2024-12-04,Áudio,1039.26,3,Sudeste,Google Ads,5.0
+2024-12-04,Smartphones,2036.7,1,Sul,Instagram,4.6
+2024-12-05,Notebooks,6520.63,1,Sul,Google Ads,4.4
+2024-12-05,Áudio,485.11,1,Sudeste,Orgânico,3.4
+2024-12-05,Acessórios,273.75,2,Nordeste,Google Ads,4.7
+2024-12-05,Acessórios,224.26,1,Nordeste,Google Ads,3.7
+2024-12-06,Acessórios,208.04,4,Sudeste,E-mail,4.0
+2024-12-06,Áudio,1022.92,2,Nordeste,Instagram,3.6
+2024-12-06,Smartphones,3981.44,2,Sudeste,E-mail,4.7
+2024-12-06,Smartphones,3607.22,1,Norte,Google Ads,3.9
+2024-12-06,TVs,3532.64,1,Centro-Oeste,Google Ads,4.4
+2024-12-06,Acessórios,262.09,1,Sudeste,Google Ads,3.2
+2024-12-06,TVs,3994.02,2,Sudeste,E-mail,4.2
+2024-12-07,Notebooks,6523.74,1,Nordeste,Orgânico,4.5
+2024-12-08,Smartphones,1605.05,2,Sul,Orgânico,4.2
+2024-12-08,Acessórios,288.26,1,Sul,Orgânico,3.6
+2024-12-08,Smartphones,3265.45,2,Sudeste,Instagram,3.9
+2024-12-08,Notebooks,7255.63,2,Norte,Orgânico,3.5
+2024-12-08,Acessórios,267.44,2,Sudeste,Google Ads,4.2
+2024-12-08,Acessórios,241.68,1,Sudeste,Orgânico,4.2
+2024-12-09,Smartphones,4908.32,2,Sudeste,Instagram,4.3
+2024-12-09,Smartphones,2775.12,2,Sudeste,Google Ads,4.7
+2024-12-09,Áudio,483.59,5,Sudeste,Orgânico,4.1
+2024-12-10,Acessórios,169.03,5,Sudeste,Instagram,3.5
+2024-12-10,Smartphones,4258.96,1,Sul,Orgânico,3.7
+2024-12-10,Acessórios,67.04,3,Sudeste,E-mail,4.1
+2024-12-11,Smartphones,1239.63,2,Sul,Orgânico,5.0
+2024-12-12,Notebooks,2910.82,2,Norte,Google Ads,3.9
+2024-12-12,Áudio,570.95,4,Sul,E-mail,4.3
+2024-12-12,Acessórios,66.77,4,Nordeste,E-mail,4.5
+2024-12-13,Smartphones,2918.81,1,Sudeste,Google Ads,5.0
+2024-12-13,Notebooks,5061.35,1,Nordeste,Orgânico,3.2
+2024-12-13,Áudio,685.49,3,Sudeste,Google Ads,4.4
+2024-12-13,Áudio,1385.94,3,Sudeste,Instagram,4.2
+2024-12-14,Áudio,577.63,3,Sudeste,Orgânico,4.5
+2024-12-14,Smartphones,2896.2,1,Sul,Google Ads,4.1
+2024-12-15,TVs,1580.38,1,Nordeste,Orgânico,4.0
+2024-12-15,Áudio,884.1,5,Sudeste,Google Ads,5.0
+2024-12-15,Acessórios,255.75,3,Sudeste,Orgânico,4.7
+2024-12-16,Smartphones,3946.69,1,Sudeste,Orgânico,4.2
+2024-12-16,TVs,1826.01,2,Sul,E-mail,4.5
+2024-12-16,Smartphones,2225.05,2,Nordeste,E-mail,3.9
+2024-12-16,Smartphones,1803.85,2,Centro-Oeste,Instagram,4.2
+2024-12-16,TVs,5824.82,1,Nordeste,Google Ads,4.4
+2024-12-17,TVs,2329.67,1,Sul,Google Ads,3.1
+2024-12-17,Smartphones,2262.87,2,Norte,Instagram,3.5
+2024-12-17,TVs,4961.5,1,Sul,Orgânico,4.7
+2024-12-17,Acessórios,165.43,5,Sul,Google Ads,4.2
+2024-12-17,Acessórios,86.3,3,Nordeste,Google Ads,3.9
+2024-12-18,Notebooks,3487.24,1,Centro-Oeste,Instagram,4.9
+2024-12-18,Notebooks,4338.34,2,Sul,Instagram,4.7
+2024-12-18,Notebooks,4450.42,2,Sudeste,Instagram,3.3
+2024-12-18,Acessórios,265.69,3,Sul,Orgânico,3.5
+2024-12-19,Smartphones,1887.71,1,Norte,Orgânico,2.8
+2024-12-19,Notebooks,5583.72,1,Nordeste,E-mail,4.6
+2024-12-19,Notebooks,7808.21,1,Nordeste,Instagram,3.8
+2024-12-19,TVs,4362.32,2,Sudeste,Orgânico,4.6
+2024-12-19,Acessórios,113.86,4,Sudeste,E-mail,4.5
+2024-12-20,Acessórios,206.21,2,Nordeste,Instagram,4.3
+2024-12-20,Smartphones,3738.72,1,Sudeste,E-mail,3.0
+2024-12-21,TVs,4227.85,1,Sudeste,Orgânico,4.3
+2024-12-21,Áudio,849.85,3,Sudeste,Google Ads,4.2
+2024-12-21,Acessórios,145.84,3,Sul,Orgânico,3.7
+2024-12-21,Acessórios,235.95,2,Nordeste,E-mail,4.6
+2024-12-21,Smartphones,2373.06,1,Sudeste,Google Ads,3.6
+2024-12-21,Smartphones,4001.28,2,Sul,Google Ads,4.1
+2024-12-21,Smartphones,4333.15,2,Sudeste,Instagram,4.0
+2024-12-22,Smartphones,1666.68,1,Sul,E-mail,4.5
+2024-12-22,Áudio,1021.84,3,Sudeste,Instagram,4.4
+2024-12-22,Acessórios,254.36,1,Sul,E-mail,4.9
+2024-12-22,Acessórios,126.52,5,Centro-Oeste,Orgânico,4.7
+2024-12-22,Acessórios,99.76,3,Nordeste,Google Ads,4.8
+2024-12-22,Notebooks,2856.69,2,Nordeste,Orgânico,4.7
+2024-12-23,Acessórios,240.16,4,Sudeste,Google Ads,3.5
+2024-12-23,Acessórios,242.74,4,Sudeste,Instagram,4.5
+2024-12-23,TVs,3313.41,2,Sudeste,E-mail,3.2
+2024-12-24,Smartphones,3259.22,2,Sul,Instagram,4.1
+2024-12-25,Áudio,1289.63,4,Nordeste,Instagram,4.1
+2024-12-25,Áudio,1124.8,3,Sudeste,Orgânico,4.9
+2024-12-25,Smartphones,4632.78,2,Sudeste,Google Ads,4.1
+2024-12-25,Smartphones,3212.71,2,Sudeste,Instagram,3.9
+2024-12-26,Áudio,214.57,1,Sudeste,Instagram,4.1
+2024-12-26,Áudio,470.68,2,Norte,Google Ads,4.2
+2024-12-26,Acessórios,170.97,2,Nordeste,Google Ads,4.5
+2024-12-27,Smartphones,3049.07,2,Sul,Google Ads,3.9
+2024-12-27,Acessórios,63.73,5,Sudeste,Instagram,3.6
+2024-12-27,Notebooks,6385.62,2,Sul,E-mail,4.9
+2024-12-27,Áudio,243.49,1,Sudeste,Google Ads,4.1
+2024-12-27,Áudio,1128.44,4,Sul,Orgânico,4.6
+2024-12-27,Acessórios,209.29,4,Sudeste,Google Ads,3.8
+2024-12-28,Notebooks,7979.84,2,Sudeste,Google Ads,4.4
+2024-12-28,Notebooks,4168.01,1,Nordeste,Instagram,4.1
+2024-12-28,Acessórios,111.95,1,Sul,Google Ads,4.7
