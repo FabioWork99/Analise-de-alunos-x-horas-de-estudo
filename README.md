@@ -21,11 +21,11 @@ Resumo dos assuntos dentro deste repositorio:
 ![alt text](image.png)
 ---
 📊 Resumo dos Principais Influenciadores (Correlação):
-Horas de Estudo por Dia (study_hours_per_day): $+0,83$ (Forte impacto positivo)
-Saúde Mental (mental_health_rating): $+0,32$ (Impacto positivo moderado)
-Frequência de Exercícios (exercise_frequency): $+0,16$ (Impacto positivo leve)
-Horas de Netflix (netflix_hours): $-0,17$ (Impacto negativo leve)
-Horas de Redes Sociais (social_media_hours): $-0,17$ (Impacto negativo leve)
+Horas de Estudo por Dia: $+0,83$
+Saúde Mental : $+0,32$
+Frequência de Exercícios : $+0,16$
+Horas de Netflix: $-0,17$ 
+Horas de Redes Sociais : $-0,17$
 ---
 
 
@@ -76,8 +76,14 @@ plt.savefig('media_nota_por_dieta.png', dpi=300)
 plt.close()
 ```
 ---
+
+![alt text](image-1.png)
+---
+
 Olhando puramente para os números, a qualidade da dieta não faz uma diferença expressiva na nota final do exame.
 
 Embora os alunos com uma dieta ruim (Poor) tenham uma média ligeiramente menor, a variação entre os três grupos é muito sutil (menos de 2,5 pontos de diferença entre a maior e a menor média). Além disso, o desvio padrão em todos os grupos é de aproximadamente 17 pontos, o que significa que há uma alta variação de notas dentro de cada próprio grupo.
 
 E assim analisando mais itens que foram possiveis graças as capacidades de assimilação e reconhecimento da inteligencia artificial, para mais fique a vontade para explorar.
+
+(Trabalho realizado na instituição SENAI de AMERICANA)
